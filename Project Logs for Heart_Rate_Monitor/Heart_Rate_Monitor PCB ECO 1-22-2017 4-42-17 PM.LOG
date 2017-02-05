@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VDD Pin=R14-1
+Added Pin To Net: NetName=REF Pin=IC2-5
+Added Pin To Net: NetName=REF Pin=R8-1
+Added Pin To Net: NetName=SHUTDOWN Pin=R14-1

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=VDD Pin=H1-1
+Change Component Designator: OldDesignator=PWR NewDesignator=LED

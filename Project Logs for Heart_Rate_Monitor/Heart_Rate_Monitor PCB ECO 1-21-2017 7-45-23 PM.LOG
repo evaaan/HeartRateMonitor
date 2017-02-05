@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetBATT_1 Pin=BATT-MH1
+Added Pin To Net: NetName=EKG Pin=C12-1
+Added Pin To Net: NetName=VDD Pin=ESD-4
+Added Pin To Net: NetName=EKG Pin=R7-2
+Change Net Name : Old Net Name=P1_3 (SW2) New Net Name=P1_3 (S2)
+Change Net Name : Old Net Name=RESET (SW1) New Net Name=RESET (S1)

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetBATT_1 Pin=BATT-MH2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=SHUTDOWN Pin=C9-2
+Removed Member From Class: ClassName=Connector Member=C9
+Added Pin To Net: NetName=NetBATT_1 Pin=BATT-MH1

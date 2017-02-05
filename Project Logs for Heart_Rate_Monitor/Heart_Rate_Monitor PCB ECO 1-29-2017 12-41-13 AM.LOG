@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=D1 Old Footprint=3.2X1.6X1.1 New Footprint=RESC0603N
+Change Component Designator: OldDesignator=D1 NewDesignator=LED
+Added Pin To Net: NetName=NetBATT_1 Pin=BATT-MH1
+Change Net Name : Old Net Name=NetD1_1 New Net Name=NetLED_1

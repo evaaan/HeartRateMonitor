@@ -1,0 +1,9 @@
+Added Component: Designator=D1(3.2X1.6X1.1)
+Added Component: Designator=R23(RESC0603N)
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=VDD Pin=R23-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R23-2
+Added Net: Name=NetD1_1
+Added Member To Class: ClassName=Connector Member=Component D1 PWR
+Added Member To Class: ClassName=Connector Member=Component R23 J1-0603

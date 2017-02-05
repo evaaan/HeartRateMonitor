@@ -1,0 +1,9 @@
+Stencil: https://www.pololu.com/product/446
+
+Batch PCB: http://docs.oshpark.com/services/
+
+Battery holder: 
+
+
+- Why are bypass caps connected to shutdown?
+- What is the REF net?

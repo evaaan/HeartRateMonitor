@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Heart_Rate_Monitor.PrjPCB]
+   Generated File[Heart_Rate_Monitor.TXT]
+   Generated File[Heart_Rate_Monitor.DRL]
+   Generated File[Heart_Rate_Monitor.LDP]
+   Generated File[Heart_Rate_Monitor.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:52:03 PM On 2/4/2017

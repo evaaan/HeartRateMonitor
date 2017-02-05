@@ -1,0 +1,41 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Evan\Dropbox\Projects\Heart_Rate_Monitor\Heart_Rate_Monitor.PcbDoc
+Date     : 2/4/2017
+Time     : 11:37:59 PM
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Room Design (Bounding Region = (3314mil, 4198mil, 6619mil, 5403mil) (InComponentClass('Design'))
+Rule Violations :0
+
+Processing Rule : Room Connector (Bounding Region = (3324mil, 4198mil, 6619mil, 5393mil) (InComponentClass('Connector'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=20mil) (Preferred=20mil) (InNet('VDD'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=20mil) (Preferred=20mil) (InNet('NetBATT_1'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=20mil) (Preferred=10mil) (InNet('GND'))
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:00
